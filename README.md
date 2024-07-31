@@ -1,4 +1,2 @@
-# shortcutMaker
-make shortcuts in python with tinter (maybe not)
-
+nigga nigga nigga
 note that this project really sucks. its buggy, and i need a todo
