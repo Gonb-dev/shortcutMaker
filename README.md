@@ -10,5 +10,6 @@ shit
 diddy
 +500 rep, systems engineerging demon
 +1000 rep, skipped 3 days of school to press buttons
+-1000 rep, talked about skibidi toilet YET AGAIN FUZDKFIASNF NIGGA
 
 Code 55% faster with GitHub Copilot
