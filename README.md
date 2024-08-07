@@ -10,3 +10,5 @@ shit
 diddy
 +500 rep, systems engineerging demon
 +1000 rep, skipped 3 days of school to press buttons
+
+Code 55% faster with GitHub Copilot
